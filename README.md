@@ -30,4 +30,4 @@ Python • FastAPI • MLflow • LangChain • FAISS • Docker • Dask • Sc
 
 ## Connect
 - LinkedIn: linkedin.com/in/junedshaikh04
-- Email: your-email@gmail.com
+- Email: juned132006@gmail.com
