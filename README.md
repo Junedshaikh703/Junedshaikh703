@@ -1,23 +1,33 @@
-<h1 align="center">Hi 👋, I'm Juned Shaikh</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
+# Juned Shaikh
 
-- 🔭 I’m currently working on **Self Driving Car perceptions**
+AI/ML Engineer focused on LLM systems, retrieval-augmented generation (RAG), recommendation systems, and scalable AI workflows.
 
-- 🌱 I’m currently learning **Computer Vision, Generative AI, and Model Deployment**
+## Current Focus
+- LLM Applications
+- Agentic AI Workflows
+- RAG Systems
+- AI Engineering Pipelines
+- Recommendation Systems
+- Deployment & Experimentation Workflows
 
-- 👯 I’m looking to collaborate on **AI/ML projects that solve real-life problems**
+## Featured Projects
 
-- 🤝 I’m looking for help with **with MLOps and scaling deep learning models**
+### LLM-Based YouTube Comment Analysis System
+- Async inference workflows for large-scale comment analysis
+- MLflow experimentation pipelines
+- LangChain + FAISS integration
+- FastAPI backend services
+- Dockerized deployment workflows
 
-- 💬 Ask me about **Machine Learning, Deep Learning, CNNs, RL, and AI project building**
+### Spotify Hybrid Recommendation System
+- Hybrid recommendation workflows using ~50K Spotify tracks and ~9.7M interactions
+- Collaborative + content-based filtering
+- Dask-based preprocessing pipelines
+- Similarity-based recommendation retrieval
 
-- 📫 How to reach me **junedshaikh132006@gmail.com**
+## Tech Stack
+Python • FastAPI • MLflow • LangChain • FAISS • Docker • Dask • Scikit-learn
 
-- ⚡ Fun fact **I love converting difficult ML concepts into simple explanations**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Connect
+- LinkedIn: linkedin.com/in/junedshaikh04
+- Email: your-email@gmail.com
